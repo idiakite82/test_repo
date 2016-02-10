@@ -22,6 +22,7 @@ head(faithful)
 summary(faithful)
 ```
 
+LETS MAKE CHANGES
 
 This is a histogram of the time between eruptions. We see the are two 
 groups of waiting times to the next eruption: One group with mean around 
